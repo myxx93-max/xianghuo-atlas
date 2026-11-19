@@ -51,6 +51,13 @@ Some traditions are polytheistic; some are monotheistic; some are non-theistic o
 - publish restricted ritual details, private family knowledge, or sensitive locations without permission;
 - offer divination, spiritual services, ritual transactions, or claims of supernatural efficacy.
 
+## Contribute and explore
+
+- [Contribution workflow](CONTRIBUTING.md)
+- [Tradition collections index](traditions/README.md)
+- [Reusable tradition profile template](templates/tradition-profile.md)
+- [Reusable source record template](templates/source-record.md)
+
 ## Start here
 
 - [Comparative framework and record model](comparative-framework.md)
