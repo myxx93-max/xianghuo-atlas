@@ -6,6 +6,16 @@ Xianghuo Atlas is an independent cultural-research project. It invites people fr
 
 It is **not** an attempt to combine all religions into one pantheon, rank traditions, identify supposedly equivalent gods, prove or disprove religious claims, or convert living traditions into fictional worldbuilding.
 
+## Our central purpose
+
+**Remembering Our Origins. Preserving Our Inheritance. Searching for Our Shared Roots.**
+
+Xianghuo Atlas is grounded in three commitments: remembering cultural memory that is fading or fragmented; preserving living traditions so they can be passed to future generations; and exploring possible connections among civilizations without assuming that resemblance proves a common origin.
+
+We seek shared roots without demanding a single source. We respect difference without refusing comparison. We remember the past without romanticizing it, and preserve heritage without claiming ownership of another people's culture.
+
+Read the full [Core Manifesto / 中心宣言](CORE_MANIFESTO.md).
+
 ## Why this project exists
 
 Cultural records are fragmented across local names, oral accounts, inscriptions, family memory, ritual practice, migration, art, and texts. A name may survive while its context is lost. Similar figures may be treated as identical without evidence. A tradition may be described using categories that its practitioners would not use.
