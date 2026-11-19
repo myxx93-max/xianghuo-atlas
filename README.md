@@ -51,6 +51,15 @@ Some traditions are polytheistic; some are monotheistic; some are non-theistic o
 - publish restricted ritual details, private family knowledge, or sensitive locations without permission;
 - offer divination, spiritual services, ritual transactions, or claims of supernatural efficacy.
 
+## Multilingual terminology glossary
+
+The glossary preserves original scripts, transliteration, context, translation limits, and community review status. It does not assume that terms translated with the same English word are equivalent.
+
+- [Glossary overview](glossary/README.md)
+- [Starter term register](glossary/terms.csv)
+- [Translation and equivalence rules](glossary/TRANSLATION_RULES.md)
+- [Community review queue](glossary/REVIEW_QUEUE.md)
+
 ## Contribute and explore
 
 - [Contribution workflow](CONTRIBUTING.md)
